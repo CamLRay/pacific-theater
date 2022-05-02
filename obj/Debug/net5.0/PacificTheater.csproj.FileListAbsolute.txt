@@ -1,0 +1,16 @@
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.csproj.AssemblyReference.cache
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.AssemblyInfoInputs.cache
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.AssemblyInfo.cs
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.csproj.CoreCompileInputs.cache
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\PacificTheater.exe
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\PacificTheater.deps.json
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\PacificTheater.runtimeconfig.json
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\PacificTheater.runtimeconfig.dev.json
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\PacificTheater.dll
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\ref\PacificTheater.dll
+C:\Users\Sploob\Desktop\pacific-theater\bin\Debug\net5.0\PacificTheater.pdb
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.dll
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\ref\PacificTheater.dll
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.pdb
+C:\Users\Sploob\Desktop\pacific-theater\obj\Debug\net5.0\PacificTheater.genruntimeconfig.cache
